@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Browse>
+<MainPart1-NonViolentCrimes>true</MainPart1-NonViolentCrimes>
+	<SubCategoryBurglary>true</SubCategoryBurglary>
+	<SubCategoryBurglaryLayerName>Burglary</SubCategoryBurglaryLayerName>
+	<SubCategoryLarcenyTheftOther>true</SubCategoryLarcenyTheftOther>
+	<SubCategoryLarcenyTheftLayerName>Larceny/Theft Other</SubCategoryLarcenyTheftLayerName>
+	<SubCategoryArson>true</SubCategoryArson>
+	<SubCategoryMotorVehicleTheft>true</SubCategoryMotorVehicleTheft>
+<MainPart1-ViolentCrimes>true</MainPart1-ViolentCrimes>
+	<SubCategoryAggravatedAssault>false</SubCategoryAggravatedAssault>
+	<SubCategoryHomicide>false</SubCategoryHomicide>
+	<SubCategoryAggravatedStalking>false</SubCategoryAggravatedStalking>
+<MainPart2>false</MainPart2>
+	<SubCategoryForgeryandCounterfeiting>true</SubCategoryForgeryandCounterfeiting>
+	<SubCategorySimpleAssaultsandBatteries>true</SubCategorySimpleAssaultsandBatteries>
+	<SubCategoryFraud>true</SubCategoryFraud>
+	<SubCategoryWeaponsOffenses>true</SubCategoryWeaponsOffenses>
+
+<MainPriority>true</MainPriority>
+<CheckBoxTwitter>true</CheckBoxTwitter>
+<CheckBoxYouTube>true</CheckBoxYouTube>
+<CheckBoxFlickr>false</CheckBoxFlickr>
+
+
+</Browse>	

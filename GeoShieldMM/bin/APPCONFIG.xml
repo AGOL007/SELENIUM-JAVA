@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppConfig>
+
+	
+	<BrowserName>Firefox</BrowserName>
+	<appurl>http://geoshieldles.usgovcloudapp.net:8080/geoshieldmissionmodule/</appurl>
+	<SubCategoryBurglaryLayerName>Burglary</SubCategoryBurglaryLayerName>
+	<SubCategoryLarcenyTheftLayerName>Larceny/Theft Other</SubCategoryLarcenyTheftLayerName>
+	<OpenDatePickerFromText>From</OpenDatePickerFromText>
+	<OpenDatePickerToText>To</OpenDatePickerToText>
+	<FromMonth>March</FromMonth>
+	<ToMonth>December</ToMonth>
+	<predefinedDate>Last 90 days</predefinedDate>
+	<MainCheckBoxCurrentCallsForService>Select All</MainCheckBoxCurrentCallsForService>
+	<Priority1CheckBoxCurrentCallsForService>Priority 1</Priority1CheckBoxCurrentCallsForService>
+	<Priority2CheckBoxCurrentCallsForService>Priority 2</Priority2CheckBoxCurrentCallsForService>
+	<Priority3CheckBoxCurrentCallsForService>Priority 3</Priority3CheckBoxCurrentCallsForService>
+	<Priority4CheckBoxCurrentCallsForService>Priority 4</Priority4CheckBoxCurrentCallsForService>
+	<Agency1CheckBoxCurrentCallsForService>Agency 1</Agency1CheckBoxCurrentCallsForService>
+	<Agency2CheckBoxCurrentCallsForService>Agency 2</Agency2CheckBoxCurrentCallsForService>
+	<Agency3CheckBoxCurrentCallsForService>Agency 3</Agency3CheckBoxCurrentCallsForService>
+	
+</AppConfig>	 
